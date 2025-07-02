@@ -1,3 +1,6 @@
-auto_gen/Include/*
-auto_gen/Lib/*
-auto_gen/.env
+autogen_env/Include/*
+autogen_env/Lib/*
+autogen_env/Scripts/*
+autogen_env/share/*
+autogen_env/pyvenv.cfg
+autogen_env/.env

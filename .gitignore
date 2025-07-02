@@ -1,0 +1,3 @@
+auto_gen/Include/*
+auto_gen/Lib/*
+auto_gen/.env
